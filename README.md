@@ -1,2 +1,0 @@
-# versuch
-demo-versuch-projekt
